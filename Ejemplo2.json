@@ -1,0 +1,15 @@
+{
+  "Sección": "Control del estado actual",
+  "Canpos": [
+    {
+      "id": 1,
+      "nombre": "Frío",
+      "estado": "Inactivo"
+    },
+    {
+      "id": 2,
+      "nombre": "Hambre",
+      "estado": "Activo"
+    }
+  ]
+}
